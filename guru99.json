@@ -1,0 +1,106 @@
+
+
+{
+    "questions": [
+        {
+            "question": "What is Python?",
+            "options": [
+                "A programming language",
+                "A scripting language",
+                "Both a programming and a scripting language",
+                "None of the above"
+            ],
+            "answer": "Both a programming and a scripting language"
+        },
+        {
+            "question": "What is the main use of Python?",
+            "options": [
+                "Web development",
+                "Machine learning",
+                "Desktop development",
+                "All of the above"
+            ],
+            "answer": "All of the above"
+        },
+        {
+            "question": "What is a module in Python?",
+            "options": [
+                "A file containing Python code",
+                "A function in Python",
+                "A variable in Python",
+                "None of the above"
+            ],
+            "answer": "A file containing Python code"
+        },
+        {
+            "question": "What is a list in Python?",
+            "options": [
+                "An ordered collection of elements of any type",
+                "A tuple",
+                "A dictionary",
+                "None of the above"
+            ],
+            "answer": "An ordered collection of elements of any type"
+        },
+        {
+            "question": "What is a for loop in Python?",
+            "options": [
+                "A loop that executes a block of code multiple times",
+                "A loop that executes a block of code until a condition is met",
+                "A loop that executes a block of code for each element in a sequence",
+                "None of the above"
+            ],
+            "answer": "A loop that executes a block of code for each element in a sequence"
+        },
+        {
+            "question": "What is a lambda function in Python?",
+            "options": [
+                "A function that is defined in one line of code",
+                "A function that takes a variable number of arguments",
+                "A function that returns a generator",
+                "None of the above"
+            ],
+            "answer": "A function that is defined in one line of code"
+        },
+        {
+            "question": "What is object-oriented programming?",
+            "options": [
+                "A programming paradigm that uses objects and classes to structure code",
+                "A programming paradigm that only uses functions",
+                "A programming paradigm that only uses variables",
+                "None of the above"
+            ],
+            "answer": "A programming paradigm that uses objects and classes to structure code"
+        },
+        {
+            "question": "What is a class in Python?",
+            "options": [
+                "A data type that stores data in key-value pairs",
+                "A function that returns multiple values",
+                "A blueprint for creating objects",
+                "None of the above"
+            ],
+            "answer": "A blueprint for creating objects"
+        },
+        {
+            "question": "What is inheritance in object-oriented programming?",
+            "options": [
+                "A way to reuse code from existing classes",
+                "A way to create new classes from existing classes",
+                "A way to define variables in a class",
+                "None of the above"
+            ],
+            "answer": "A way to create new classes from existing classes"
+        },
+        {
+            "question": "What is pip?",
+            "options": [
+                "A package manager for Python",
+                "A script that automatically installs packages",
+                "A Python library that installs packages",
+                "None of the above"
+            ],
+            "answer": "A package manager for Python"
+        }
+    ]
+}
